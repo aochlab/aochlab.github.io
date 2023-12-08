@@ -1,5 +1,5 @@
 /*
-Theme: vOne - Free Business HTML5 Responsive WebsiteDescription: Free to use for personal and commercial use
+Theme: AOCH ExhibitDescription: Free to use for personal and commercial use
 Author: WebThemez.com
 Website: http://webthemez.com
 Note: Please do not remove the footer backlink (webthemez.com)--(if you want to remove contact: webthemez@gmail.com)
